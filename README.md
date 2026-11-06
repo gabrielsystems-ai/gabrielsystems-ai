@@ -2,95 +2,44 @@
 
 **Websites · Custom Software · Applied AI**
 
-Designing and engineering professional web experiences, custom platforms and practical AI-powered solutions.
-
-We build digital products that combine thoughtful interface design, reliable architecture and real-world functionality.
-
----
-
-## What We Build
-
-### Websites & Digital Experiences
-
-Professional business websites, responsive interfaces and digital experiences designed around clarity, usability and business goals.
-
-### Custom Software & Platforms
-
-Web applications, internal dashboards, customer portals, workflow management systems and integrations tailored to specific operational needs.
-
-### Applied AI & Automation
-
-AI-powered assistants, structured tool calling, document retrieval and intelligent workflows built with practical constraints, security and reliability in mind.
+We design and engineer professional websites, custom software and practical AI solutions — combining thoughtful interfaces with reliable architecture.
 
 ---
 
 ## Selected Work
 
-### 01 — AI Customer Support Agent
+**[AI Customer Support Agent](https://github.com/gabrielsystems-ai/artefact-ai-engineer-case)**
 
-**Python · OpenAI API · Function Calling · Streamlit · Automated Testing**
+Python · OpenAI API · Streamlit · Testing
 
-An AI customer support agent developed for the Artefact AI Engineer technical challenge, using a fictional musical-instrument store.
+AI support agent featuring structured tool calling, deterministic business logic, policy retrieval and automated testing.
 
-The application combines conversational AI with deterministic business logic, structured tools, policy retrieval and customer-scoped order information.
+[Live Demo](https://artefact-ai-engineer-case-live-demo.streamlit.app) · [Source Code](https://github.com/gabrielsystems-ai/artefact-ai-engineer-case)
 
-It demonstrates how language models can interact with operational data while keeping important business rules and authorization boundaries outside the model.
+**[Sales Prospecting & Pipeline Skill](https://github.com/gabrielsystems-ai/sales-prospecting-pipeline-skill)**
 
-[View Repository](https://github.com/gabrielsystems-ai/artefact-ai-engineer-case) · [Live Demo](https://artefact-ai-engineer-case-live-demo.streamlit.app)
+AI Workflows · Research · Process Design
 
-### 02 — Sales Prospecting & Pipeline Skill
+An evidence-based AI workflow for business research, lead qualification and pipeline management.
 
-**AI Workflows · Business Research · Lead Qualification · Process Design**
-
-An independent, agent-oriented workflow for researching business opportunities, evaluating digital infrastructure and supporting structured sales processes.
-
-Built around evidence-based decisions, commercial qualification and practical workflow management.
-
-[View Repository](https://github.com/gabrielsystems-ai/sales-prospecting-pipeline-skill)
+[Explore Repository](https://github.com/gabrielsystems-ai/sales-prospecting-pipeline-skill)
 
 ---
 
-## Technology & Engineering
+## What We Build
 
-**Frontend Development**
+- **Websites & Interfaces** — Professional, responsive digital experiences.
+- **Custom Software** — Web applications, dashboards, portals and integrations.
+- **Applied AI** — Intelligent assistants, automation and AI-powered workflows.
 
-Next.js · React · TypeScript · JavaScript · Tailwind CSS
+## Technology
 
-**Backend & Data**
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS
 
-Python · Supabase · PostgreSQL · REST APIs · Authentication & Authorization
+**Backend:** Python · Supabase · PostgreSQL · REST APIs
 
-**Artificial Intelligence**
-
-OpenAI API · Large Language Models · Function Calling · AI Agents · Document Retrieval
-
-**Development & Quality**
-
-Git · GitHub · Vitest · Playwright · Testing · Vercel
+**AI & Engineering:** OpenAI API · Function Calling · Git · Vitest · Playwright
 
 ---
 
-## How We Approach Software
-
-**Understand the problem.** Define the business process, the people involved and the outcome the solution needs to support.
-
-**Design with purpose.** Build clear interfaces and workflows that prioritize usability over unnecessary complexity.
-
-**Engineer for reliability.** Consider maintainability, security, permissions and testing throughout development.
-
-**Deliver proportionally.** Choose the simplest architecture that meets the requirements, with room to evolve when necessary.
-
----
-
-## Explore & Connect
-
-Gabriel Web Systems works across website development, custom software, business workflows and applied AI.
-
-Explore the repositories to review architecture decisions, implementation details and technical demonstrations.
-
-[GitHub Profile](https://github.com/gabrielsystems-ai)
-
----
-
-**Gabriel Web Systems**  
-*Websites, Custom Software & Applied AI*
+**Let's connect:** [gabrielwebsystems@gmail.com](mailto:gabrielwebsystems@gmail.com)
